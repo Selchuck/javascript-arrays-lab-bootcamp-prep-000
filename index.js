@@ -27,5 +27,3 @@ function prependKittens (name) {
   return [name, ...kittens];
 }
 
-function
- 
