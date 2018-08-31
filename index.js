@@ -20,5 +20,5 @@ function destructivelyRemoveFirstKitten(name) {
 }
 
 function appendKitten(name) {
-  name = concat.newKitten = []
+  name = concat.newKitten = ([]);
 }
